@@ -1,6 +1,6 @@
 # 📝 Toxic Comment Classification System
 
-This project implements a **Toxic Comment Classification System** to identify and classify toxic comments using multiple machine learning models, including **Multinomial Naive Bayes**, **Logistic Regression**, **Support Vector Machine (SVM)**, and **LSTM**. The project utilizes the **Toxic Comment Classification Dataset** and involves data preprocessing, feature engineering, modeling, and evaluation.
+This project implements system a to identify and classify toxic comments using multiple machine learning models, including **Multinomial Naive Bayes**, **Logistic Regression**, **Support Vector Machine (SVM)**, and **LSTM**. The project utilizes the **Toxic Comment Classification Dataset** and involves data preprocessing, feature engineering, modeling, and evaluation.
 
 ---
 
